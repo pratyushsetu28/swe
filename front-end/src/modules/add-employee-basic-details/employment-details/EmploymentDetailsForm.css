@@ -1,0 +1,92 @@
+.employment-details {
+  background-color: white;
+}
+
+.form-head {
+  padding: 7px;
+  text-align: left;
+  font-size: 1.1em;
+  color: white;
+  background-color: #0088cc;
+}
+
+.form-details {
+  padding: 3px;
+}
+
+.employee-type {
+  text-align: left;
+}
+
+.employee-type-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 99.5%;
+  background-color: white;
+}
+
+.date-of-joining {
+  text-align: left;
+}
+
+.date-of-joining-field {
+  width: 96.5%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.designation {
+  text-align: left;
+}
+
+.designation-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 99.5%;
+  background-color: white;
+}
+
+.department {
+  text-align: left;
+}
+
+.department-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 99.5%;
+  background-color: white;
+}
+
+.research-interest {
+  text-align: left;
+}
+
+.research-interest-field {
+  width: 96.5%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.nature-of-employment {
+  text-align: left;
+}
+
+.nature-of-employment-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 99.5%;
+  background-color: white;
+}
+
+.date-of-retirement {
+  text-align: left;
+}
+
+.date-of-retirement-field {
+  width: 96.5%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}

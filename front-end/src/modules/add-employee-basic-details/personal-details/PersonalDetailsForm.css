@@ -1,0 +1,258 @@
+.personal-details {
+  background-color: white;
+}
+
+.form-heading {
+  padding: 7px;
+  text-align: left;
+  font-size: 1.1em;
+  color: white;
+  background-color: #0088cc;
+}
+
+.form-details {
+  padding: 3px;
+}
+
+.mandatory-field-info {
+  margin-left: 3px;
+  text-align: left;
+}
+
+.name {
+  text-align: left;
+}
+
+.salutation {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 24%;
+}
+
+.salutation-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 95%;
+  background-color: white;
+}
+
+.first-name {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 24%;
+}
+
+.first-name-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.middle-name {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 24%;
+}
+
+.middle-name-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.last-name {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 24%;
+}
+
+.last-name-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.marital-status-dob-place-of-birth {
+  text-align: left;
+}
+
+.marital-status {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.marital-status-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 95%;
+  background-color: white;
+}
+
+.dob {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.dob-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.place-of-birth {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.place-of-birth-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.gender-pwd-kashmiri-immigrant {
+  text-align: left;
+}
+
+.gender {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.select-gender {
+  padding-top: 15px;
+  padding-left: 30px;
+}
+
+.pwd {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.select-pwd {
+  padding-top: 17px;
+  padding-left: 30px;
+}
+
+.kashmiri-immigrant {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.select-kashmiri-immigrant {
+  padding-top: 17px;
+  padding-left: 30px;
+}
+
+.father-mother {
+  text-align: left;
+}
+
+.father-name {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.father-name-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.mother-name {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.mother-name-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.category-nationality-religion {
+  text-align: left;
+}
+
+.category {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.category-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 95%;
+  background-color: white;
+}
+
+.nationality {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.nationality-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.religion {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+}
+
+.religion-field {
+  width: 90%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.photograph {
+  margin: 3px;
+  text-align: left;
+}
+
+.upload-photo {
+  margin: 3px;
+  border: 1px solid lightgrey;
+}
+
+.photo {
+  float: right;
+}

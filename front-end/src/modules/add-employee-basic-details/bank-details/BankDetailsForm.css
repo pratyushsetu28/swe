@@ -1,0 +1,39 @@
+.form-head {
+  padding: 7px;
+  text-align: left;
+  font-size: 1.1em;
+  color: white;
+  background-color: #0088cc;
+}
+
+.form-details {
+  background-color: white;
+  padding-top: 15px;
+}
+
+.bank-name {
+  padding-right: 60px;
+  text-align: left;
+  display: inline-block;
+  width: 48%;
+}
+
+.bank-name-field {
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+  width: 98%;
+}
+
+.account-number {
+  text-align: left;
+  display: inline-block;
+  width: 48%;
+}
+
+.account-number-field {
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+  width: 98%;
+}

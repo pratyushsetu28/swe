@@ -1,0 +1,60 @@
+.address-form {
+  background-color: white;
+}
+
+.address-form-input {
+  text-align: left;
+}
+
+.address-line-1-field {
+  width: 97%;
+}
+
+.address-line-2-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.city-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.state-field {
+  border: 1px solid lightgray;
+  padding: 5px;
+  background-color: white;
+  display: inline-block;
+}
+
+.pincode-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.state-field {
+  width: 98%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.country-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.contact-no-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}

@@ -1,0 +1,44 @@
+hr {
+  border-color: #f2f2f2;
+}
+
+.address-details {
+  margin-left: 20px;
+  background-color: white;
+}
+
+.form-head {
+  padding: 7px;
+  text-align: left;
+  font-size: 1.1em;
+  color: white;
+  background-color: #0088cc;
+}
+
+.form-details {
+  padding: 3px;
+}
+
+.form-label {
+  font-size: 1.5em;
+}
+
+.present-address-form {
+  text-align: left;
+}
+
+.present-address-form {
+  padding-right: 15px;
+  width: 48%;
+  display: inline-block;
+}
+
+.permanent-address-form {
+  text-align: left;
+}
+
+.permanent-address-form {
+  padding-left: 15px;
+  width: 48%;
+  display: inline-block;
+}

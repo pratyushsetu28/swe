@@ -1,0 +1,29 @@
+.approved-tag {
+    border-radius: 6px;
+    padding: 3px;
+    text-align: center;
+    font-size: 0.9em;
+    color: white;
+    background-color: #47d147;
+    width: 70px;
+}
+
+.rejected-tag {
+    border-radius: 6px;
+    padding: 3px;
+    text-align: center;
+    font-size: 0.9em;
+    color: white;
+    background-color: #ff3333;
+    width: 60px;
+}
+
+.pending-tag {
+    border-radius: 6px;
+    padding: 3px;
+    text-align: center;
+    font-size: 0.9em;
+    color: white;
+    background-color: #3399ff;
+    width: 60px;
+}

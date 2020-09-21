@@ -1,0 +1,61 @@
+.other-details {
+  margin-left: 20px;
+  background-color: white;
+}
+
+.form-head {
+  padding: 7px;
+  text-align: left;
+  font-size: 1.1em;
+  color: white;
+  background-color: #0088cc;
+}
+
+.other-details-input {
+  margin: 3px;
+  text-align: left;
+  display: inline-block;
+  width: 32%;
+}
+
+.hobbies-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.favorite-past-time-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.fax-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.office-no-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.email-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
+
+.mobile-no-field {
+  width: 95%;
+  border: 1px solid lightgrey;
+  border-radius: 0px;
+  padding: 6px;
+}
